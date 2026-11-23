@@ -100,19 +100,19 @@ Create a Flask application that accepts years of experience from users and predi
 
 ## 🛠️ Technologies Used
 
-| Technology | Purpose |
-|---|---|
-| Python | Programming language |
-| NumPy | Numerical operations |
-| Pandas | Data manipulation and analysis |
-| Matplotlib | Data visualization |
-| Seaborn | Statistical visualization |
-| Scikit-learn | Machine Learning model development |
-| Flask | Web application development |
-| HTML | Web page structure |
-| CSS | Web page styling |
-| Pickle | Saving and loading the trained model |
-| Git & GitHub | Version control and project hosting |
+| Technology   | Purpose                              |
+| ------------ | ------------------------------------ |
+| Python       | Programming language                 |
+| NumPy        | Numerical operations                 |
+| Pandas       | Data manipulation and analysis       |
+| Matplotlib   | Data visualization                   |
+| Seaborn      | Statistical visualization            |
+| Scikit-learn | Machine Learning model development   |
+| Flask        | Web application development          |
+| HTML         | Web page structure                   |
+| CSS          | Web page styling                     |
+| Pickle       | Saving and loading the trained model |
+| Git & GitHub | Version control and project hosting  |
 
 ---
 
@@ -280,10 +280,10 @@ Now you can enter years of experience and check the predicted salary.
 
 Consider the following example:
 
-| Input | Value |
-|---|---|
-| Years of Experience | 5 Years |
-| Prediction | Estimated Salary |
+| Input               | Value            |
+| ------------------- | ---------------- |
+| Years of Experience | 5 Years          |
+| Prediction          | Estimated Salary |
 
 When the user enters 5 years of experience, the trained Simple Linear Regression model calculates and displays an estimated salary.
 
@@ -338,9 +338,9 @@ It also improved my practical understanding of Python, Machine Learning, Regress
 
 Aspiring Data Scientist | Machine Learning Enthusiast
 
-📧 Email: adherohith@gmail.com
+📧 Email: [adherohith@gmail.com](mailto\:adherohith@gmail.com)
 
-🔗 GitHub: Add your GitHub profile URL here
+🔗 GitHub: [https://github.com/rohith504](https://github.com/rohith504)
 
 ---
 
